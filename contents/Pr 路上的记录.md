@@ -151,5 +151,5 @@ date : 2021-05-16
     愿这篇文章能够给到一些人启发和帮助 ，本人的写作水平一般 ，有些地方写的不够透彻 ，可能存在错误的地方 ，也希望各位同仁可以提出合理的建议并给予指导 ，发现错误给予纠正 。
 
 ### 五、贡献指南
-这是我们项目的 [OS--EDU参与贡献指南](https://os-edu.github.io/contribution/add_contributing_guide/) ，欢迎伙伴们可以加入我们 。
+这是我们项目的 [OS--EDU参与贡献指南](https://os-edu.github.io/contribution/add_contributing_guide/) ，欢迎伙伴们加入我们 。
 
